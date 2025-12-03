@@ -66,7 +66,7 @@ Create a Template in the Blynk Console with the following Datastreams:
 * **Student:** Vo Van Tuan
 * **Student ID:** 6251020094
 * **Class:** CQ.62.KTDTVT
-* **University:** University of Transport and Communications - HCMC Campus
+* **University:** University of Transport and Communications - HCMC Campus - UTC2
 
 ---
 *Project for the course: IoT and Applications Final Report.*
